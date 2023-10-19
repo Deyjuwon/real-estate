@@ -25,8 +25,8 @@ const Hero = () => {
                 </div>
                 
                 <div className="flexColStart hero-des">
-                    <span className='secondaryText hero-sec'>Find a variety of properties that suit you very easily</span>
-                    <span className='secondaryText hero-sec'>Forget all difficulties in finding a residence for you</span>
+                    <span className='secondaryText hero-sec'>Locate a range of homes that are ideal for you with ease.</span>
+                    <span className='secondaryText hero-sec'>Forget about the challenges of locating a place to call home.</span>
                 </div>
 
                 <div className="flexCenter search-bar">
