@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Ikate, Lekki, Lagos",
+    "price": "130, 000, 000",
+    "detail": " Newly built 4 bedroom semi detached duplex with bq and swimming pool in a gated estate.",
+    "image": "./lekki3.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Lekki County Estate",
+    "price": "250, 000, 000",
+    "detail": "For sale luxury 5 bedroom detached duplex with pentfloor amenities: - [ ] all rooms en-suite - [ ] fitted kitchen with accessories - [ ] mode...",
+    "image": "./lekki4.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Banana Island",
+    "price": "650, 000, 000",
+    "detail": "4 bed banana island n700m exquisitely detailed 4 bedroom terrace duplex with swimming pool, 24/7 power and security. location:...",
+    "image": "./lekki5.jpeg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Ogudu GRA",
+    "price": "450, 000, 000",
+    "detail": "For sales beautifully built 5 bedroom fully detached duplex with bq location : ogudu gra 1, lagos price: 420m features: - super luxury -...",
+    "image": "./lekki6.jpeg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Omole Phase 1",
+    "price": "180, 000, 000",
+    "detail": "This home is well spacious and it's the best home for your personal use or investment purpose. it has an ample parking space, two exit...",
+    "image": "./lekki7.jpeg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Orchid Lekki",
+    "price": "60, 000, 000",
+    "detail": "Not only is it an ideal place to live and raise a family, it is the perfect investment platform with high demand for rental value and huge roi.",
+    "image": "./lekki8.jpg"
   }
 ]
