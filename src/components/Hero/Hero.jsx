@@ -11,7 +11,6 @@ const Hero = () => {
             {/* left */}
             <div className="flexColStart hero-left">
                 <div className="hero-title">
-                    {/* <div className="orange-circle" /> */}
                     <img className='home-img' src="./home.png" alt="" />
                     <motion.h1
                     initial={{ y: "5rem", opacity: 0 }}
