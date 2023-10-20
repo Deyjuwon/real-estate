@@ -5,7 +5,7 @@ const GetStarted = () => {
     <div id="get-started" className="g-wrapper">
       <div className="paddings innerWidth g-container">
         <div className="flexColCenter inner-container">
-          <span className="primaryText">Get started with oatHomes</span>
+          <span className="primaryText">Ready To Connect with Us?</span>
           <span className="secondaryText">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             <br />
